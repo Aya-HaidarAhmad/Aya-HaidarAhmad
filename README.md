@@ -26,7 +26,7 @@
 - :woman_technologist: I'm an Electrical and Electronics Engineer specialized in Industrial Digital Control
 - 🔭 I’m currently working on my bachelor degree in Computer Science 
 - 🌱 In my free time, I like to learn about robotics and AI
-- :book: To recharge, I like to read books
+<!-- :book: To recharge, I like to read books -->
 - 📫 How you can reach me: <a href="https://www.linkedin.com/in/aya-haidarahmad"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 
