@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on my bachelor degree in Computer Science 
 - 🌱 In my free time, I like to learn about robotics and AI
 - :book: To recharge, I like to read books
-- 📫 How you can reach me: <a href="https://www.linkedin.com/in/aya-h-13b00a225"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+- 📫 How you can reach me: <a href="www.linkedin.com/in/aya-haidarahmad"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 
 <!--
